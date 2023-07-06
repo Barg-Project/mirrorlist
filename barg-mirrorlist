@@ -1,2 +1,5 @@
-# Global (Github)
-Server = https://raw.githubusercontent.com/barg-project/barg/main/x86_64/
+# Global (GitHub)
+Server = https://raw.githubusercontent.com/barg-project/$repo/main/$arch/
+
+# Global (GitLab)
+Server = https://gitlab.com/barg-project/$repo/-/raw/main/$arch/
